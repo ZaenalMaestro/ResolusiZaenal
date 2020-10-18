@@ -2,5 +2,9 @@ RENCANA KONTEN ZAENAL
 -buat video javascript
   * js ES6
   * vue js
+  * React
 - Fundamentar struktur data
--buat video framework
+-buat video framework php
+ * Laravel
+ *codeigniter
+- Python
