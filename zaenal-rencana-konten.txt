@@ -1,3 +1,5 @@
 RENCANA KONTEN ZAENAL
 -buat video javascript
+  * js ES6
+  * vue js
 -buat video framework
